@@ -1,0 +1,108 @@
+#first {
+    color: #ff0000;
+    border: 5px solid #43cabd;
+    border-radius: 40px;
+    background-color: #edeed7;
+    margin: 20px;
+}
+
+.container {
+    color: #ff0000;
+    background-color: #edeed7;
+    border: 5px solid #43cabd;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 128px;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.btn {
+
+    font-weight: bolder;
+    background-color: antiquewhite;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    background-color: magenta;
+    border: 2px solid black;
+}
+
+a:visited {
+
+    color: blue;
+}
+
+a:active {
+    background-color: blue;
+}
+
+.container input {
+    text-decoration-style: solid;
+}
+
+input {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+input:hover {
+    border: 2px solid black;
+    border-radius: 49px;
+    cursor: pointer;
+}
+
+input:visited {
+
+    color: blue;
+}
+
+input:active {
+    background-color: blue;
+}
+
+.navbar {
+    background-color: red;
+    border-radius: 40px;
+}
+
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 9px 6px;
+
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 3px 10px;
+    color: wheat;
+}
+
+.search {
+    float: right;
+    padding: 8px 42px;
+}
+
+.search input {
+    border: 2px;
+    border-radius: 10px;
+    padding: 3px 17px;
+}
